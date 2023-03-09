@@ -1,7 +1,7 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   presets: [
-    require('./tailwind-preset'),
+    require('@ewendc/tailwind-preset'),
   ],
   // theme: {
   //   colors: {
