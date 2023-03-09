@@ -1,0 +1,20 @@
+{
+  "name": "eslint-tailwindcss-preset-bug",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal reproduction of bug involving reading TailwindCSS Presets by the ESLint TailwindCSS plugin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EwenDC/eslint-tailwindcss-preset-bug.git"
+  },
+  "author": "EwenDC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EwenDC/eslint-tailwindcss-preset-bug/issues"
+  },
+  "homepage": "https://github.com/EwenDC/eslint-tailwindcss-preset-bug#readme",
+  "devDependencies": {
+    "eslint": "8.35.0",
+    "eslint-plugin-tailwindcss": "3.10.1"
+  }
+}

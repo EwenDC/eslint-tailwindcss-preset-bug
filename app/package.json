@@ -1,0 +1,12 @@
+{
+  "name": "@ewendc/app",
+  "version": "1.0.0",
+  "private": true,
+  "main": "linting-test.js",
+  "author": "EwenDC",
+  "license": "MIT",
+  "devDependencies": {
+    "@ewendc/tailwind-preset": "workspace:*",
+    "tailwindcss": "3.2.7"
+  }
+}

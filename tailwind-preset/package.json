@@ -1,0 +1,8 @@
+{
+  "name": "@ewendc/tailwind-preset",
+  "version": "1.0.0",
+  "private": true,
+  "main": "tailwind-preset.js",
+  "author": "EwenDC",
+  "license": "MIT"
+}
